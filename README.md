@@ -1,1 +1,2 @@
 # DemoOCRBangla
+![plot](MAP.png)
